@@ -1,0 +1,29 @@
+.nav-bar{
+	background-color: black;
+		display: flex;
+	flex-direction: row;   
+	 justify-content: space-between; 
+	opacity: 0.6;
+}
+.content{
+	display: flex;
+	flex-direction: row;   
+	justify-content: space-around; 
+  }
+
+ul{
+	display: flex;
+	flex-direction: row;   
+	list-style-type: none; 
+	color: white;
+}
+li{
+	margin-right: 15px;
+
+}
+h2,p{
+	text-align:center;
+}
+h2{
+	color:green;
+}

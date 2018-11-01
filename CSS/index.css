@@ -1,0 +1,26 @@
+.nav-bar,.nav-right ul{
+	
+	display: flex;
+	flex-direction: row;   
+	justify-content: space-around; 
+	align-items: center;
+
+}
+
+.nav-bar{
+	background-color: #f4f4f4;
+}
+ul.nav-links{
+	list-style: none;
+}
+ul.nav-links li{
+	margin-right:15px;
+	color: blue;
+}
+.content{
+	display: flex;
+	flex-direction: row;   
+	justify-content: space-around; 
+	align-items: center;
+
+}
